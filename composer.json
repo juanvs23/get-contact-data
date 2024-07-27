@@ -1,0 +1,15 @@
+{
+    "name": "juanv/coltman-get-contact",
+    "autoload": {
+        "psr-4": {
+            "Juanv\\ColtmanGetContact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Carlos Avila",
+            "email": "juanvs23@gmail.com"
+        }
+    ],
+    "require": {}
+}
